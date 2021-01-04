@@ -3,6 +3,6 @@ No thrills, self hosted, secure, and easily-disposable text communication channe
 
 C# .NET
 
-CURRENT TASK: Create and adjust design document.
+CURRENT TASK: Create and adjust design document. Check PDF.
 
 NOTICE: This is not complete, this is not functional, this repo is simply a place for me to start adding to. Things will change a lot.
